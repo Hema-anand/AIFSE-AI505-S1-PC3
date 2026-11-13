@@ -1,6 +1,3 @@
-// import Header from "./ai/components/Header";
-// import NoteCard from "./ai/components/NoteCard";
-// import Footer from "./ai/components/Footer";
 import Header from "./dev/components/Header";
 import NoteCard from "./dev/components/NoteCard";
 import Footer from "./dev/components/Footer";
